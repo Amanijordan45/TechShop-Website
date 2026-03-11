@@ -25,12 +25,12 @@ https://your-username.github.io/TechShop/
 
 ### 🏠 Home Page
 
-![Home Page](<img width="1346" height="682" alt="hom" src="https://github.com/user-attachments/assets/5d8cc10d-8c03-43d5-bbe3-37697125e585" />
+![Home Page](<img width="1346" height="682" alt="hom" src="https://github.com/user-attachments/assets/5d8cc10d-8c03-
 )
 
 ### 🛍️ Products Page
 
-![Products Page](images/products.png)
+![Products Page](products.png)
 
 ### ❓ FAQ / Support Page
 
